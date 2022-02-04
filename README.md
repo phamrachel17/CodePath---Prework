@@ -6,7 +6,7 @@ Hello World App
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://user-images.githubusercontent.com/66144804/152617659-aba72213-1d59-4df8-8d30-cb05b030e05b.gif)" width=200><br>
+<img src="https://user-images.githubusercontent.com/66144804/152617659-aba72213-1d59-4df8-8d30-cb05b030e05b.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
